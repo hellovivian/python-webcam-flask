@@ -28,4 +28,3 @@ boost==0.1
 cmake==0.7.1
 boost-py
 dlib==19.16.0
-imutils
