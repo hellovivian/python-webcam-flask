@@ -1,3 +1,4 @@
+
 from sys import stdout
 from makeup_artist import Makeup_artist
 import logging

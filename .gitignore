@@ -1,4 +1,8 @@
-venv
+*.dat
+eyediary_env/*
+bin/
+lib/
+lib64
 *.pyc
 staticfiles
 .env
