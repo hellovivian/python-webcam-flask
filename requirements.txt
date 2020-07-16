@@ -15,7 +15,7 @@ Jinja2==2.9.6
 MarkupSafe==1.0
 
 olefile==0.44
-
+opencv-python==3.2.0-dev
 Pillow==4.2.1
 python-engineio==1.7.0
 python-socketio==1.7.7
