@@ -1,0 +1,5 @@
+*.dat
+eyediary_env/*
+bin/
+lib/
+lib64
